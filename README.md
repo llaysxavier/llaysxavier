@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**llaysxavier/llaysxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Seja bem vindo! Tudo bem? 👋🏿 👩🏾‍💻
 
-Here are some ideas to get you started:
+O meu nome é Lays Xavier, sou estudante de **Desenvolvimento de Sistemas** no SENAI - Unidade Dendezeiros. Atualmente, estou no segundo semestre deste curso, com previsão de conclusão em dezembro de 2023. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ao longo do programa de estudos, tenho me encantado cada vez mais pela área da tecnologia e suas possibilidades. Tenho adquirido habilidades sólidas em programação, desenvolvimento de software e resolução de problemas, além de ter me familiarizado com as principais linguagens e ferramentas utilizadas no mercado.
+
+Através de projetos práticos e trabalho em equipe, tenho desenvolvido minha capacidade de análise, pensamento crítico e habilidades de resolução de problemas. Tenho a capacidade de aprender rapidamente novas tecnologias e estou sempre disposta a enfrentar desafios.
+
+Nos meus repositórios, você encontará algumas atividades desenvolvidas ao longo do curso. 
+
+
+
+
+ㅤㅤㅤㅤㅤ**Contate-me por aqui!** 👇🏾
+
+📧: xavierlays03@gmail.com
+🔗: https://www.instagram.com/llaysxavier/
+📱: https://api.whatsapp.com/send?phone=5571999610522
+
+ Tudo é considerado impossível, até acontecer. – Nelson Mandela 🎯
