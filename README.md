@@ -18,6 +18,9 @@ Nos meus repositórios, você encontará algumas atividades desenvolvidas ao lon
 <br> 🔗: https://www.instagram.com/llaysxavier/ </br>
 <br> 📱: https://api.whatsapp.com/send?phone=5571999610522 </br>
 
+<br> . </br>
+<br> . </br>
+<br> . </br>
 
 
 **Tudo é considerado impossível, até acontecer. – Nelson Mandela** 🎯
