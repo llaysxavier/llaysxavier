@@ -25,4 +25,5 @@ Nos meus repositórios, você encontará algumas atividades desenvolvidas ao lon
 <br> . </br>
 
 
-**Tudo é considerado impossível, até acontecer. – Nelson Mandela** 🎯
+<br>**Tudo é considerado impossível, até acontecer. – Nelson Mandela** 🎯</br>
+![alt text]([https://raw.githubusercontent.com/](https://github.com/llaysxavier/llaysxavier/blob/main/img.png))
