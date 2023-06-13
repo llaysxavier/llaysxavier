@@ -14,8 +14,8 @@ Nos meus repositórios, você encontará algumas atividades desenvolvidas ao lon
 
 ㅤㅤㅤㅤㅤ**Contate-me por aqui!** 👇🏾
 
-📧: xavierlays03@gmail.com
-🔗: https://www.instagram.com/llaysxavier/
-📱: https://api.whatsapp.com/send?phone=5571999610522
+<br> 📧: xavierlays03@gmail.com </br>
+<br> 🔗: https://www.instagram.com/llaysxavier/ </br>
+<br> 📱: https://api.whatsapp.com/send?phone=5571999610522 </br>
 
  Tudo é considerado impossível, até acontecer. – Nelson Mandela 🎯
