@@ -9,7 +9,9 @@ Através de projetos práticos e trabalho em equipe, tenho desenvolvido minha ca
 
 Nos meus repositórios, você encontará algumas atividades desenvolvidas ao longo do curso. 
 
-
+<br> . </br>
+<br> . </br>
+<br> . </br>
 
 
 **Contate-me por aqui!** 👇🏾
